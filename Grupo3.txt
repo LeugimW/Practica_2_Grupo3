@@ -1,0 +1,6 @@
+Integrantes:
+Diego Arredondo Palacios:Controlador
+Miguel Angel Ramos Mota: View
+Anthony Abarca Rodriguez:Model
+Nicolas Simarra: Model
+Mathias Nagahama:Controlador
